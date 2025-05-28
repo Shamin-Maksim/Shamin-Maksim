@@ -1,6 +1,6 @@
-Header
+[![Header](https://github.com/Shamin-Maksim/Shamin-Maksim/blob/main/Assets/git1.png)]
 
-Aboutme
+About me
 
 Latest YT Videos
 
